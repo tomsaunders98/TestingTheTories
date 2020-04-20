@@ -1,9 +1,9 @@
 # [Testing The Tories](https://testthetories.shinyapps.io/testingtories/)
 This is a very simple R Shiny dashboard to track Matt Hancock's claim of 100,000 tests a day by May 1st.
 
-You can view it [here](https://testthetories.shinyapps.io/testingtories/)
+You can view it [here](https://testthetories.shinyapps.io/testingtories/).
 
-It takes data from my [CovidTests repo](https://github.com/tomsaunders98/CovidTests) to generate both graphs. Its connected to shinyapps for now as no better solution. Heroku looks like a posiblity but ultimately this would probably work a lot better moved off Shiny altogether as there is no real reason for it to be dashboard apart from the reason I was interested to try it out.
+It takes data from my [CovidTests repo](https://github.com/tomsaunders98/CovidTests) to generate both graphs. Its connected to shinyapps for now as no better solution. Heroku looks like a posiblity but ultimately this would probably work a lot better moved off Shiny altogether as there is no real reason for it to be dashboard apart from the fact that I was interested to try it out.
 
 ### Files
 * app.py 
